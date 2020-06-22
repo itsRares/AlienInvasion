@@ -14,7 +14,7 @@ class Ship():
 
         #Start each new ship at the bottom of the screen
         self.rect.centerx = self.screen_rect.centerx
-        self.rect.bottom = self.screen_rect.bottom
+        self.rect.bottom = self.screen_rect.bottom - 10
 
         #Store a decimal value for the ship's center
         self.center = float(self.rect.centerx)
