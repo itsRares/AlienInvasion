@@ -2,7 +2,7 @@
 
 # Alien Invasion
 
-> A simple Python3 pygame built from Python Crash Coarse book.
+A simple Python3 pygame built from Python Crash Coarse book.
 
 ---
 
